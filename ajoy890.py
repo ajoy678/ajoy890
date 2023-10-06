@@ -146,7 +146,6 @@ def fuck():
     name = ''.join(random.choice(string.digits) for _ in range(2))
     cod = ''.join(random.choice(string.digits) for _ in range(2))
     os.system('clear')
-    os.system('xdg-open https://www.youtube.com/@ajoygaming678)
     print(logo)
     os.system('espeak -a 300 "ENTER YOUR CRACK LIMIT"')
     print('      \x1b[1;95m   𝐄𝐍𝐓𝐄𝐑 𝐘𝐎𝐔𝐑 𝐂𝐑𝐀𝐂𝐊 𝐋𝐈𝐌𝐈𝐓')
